@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 MyBatis JPetStore
 =================
 
@@ -77,3 +78,7 @@ Perform integration tests for screen transition.
 ```
 $ ./mvnw test -P itest
 ```
+=======
+# Redcoin
+
+>>>>>>> b7248f630b4e7ab2c45f6ad1235fd02af989857b
